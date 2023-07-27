@@ -4,3 +4,4 @@ def ss():
     print(a+b)
 ss()
 ss()
+ss()
